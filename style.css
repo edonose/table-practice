@@ -1,0 +1,136 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 700px;
+  padding: 30px 50px;
+  margin: 20px auto;
+  border-radius: 20px;
+  background: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#tab1 {
+  border: 1px solid red;
+  margin: 0px auto;
+}
+#tab1 td {
+  border: 1px dotted blue;
+  padding: 10px;
+}
+#TopRow {
+  background-color: #053561;
+  color: white;
+}
+.blocks {
+  background-color: black;
+  color: white;
+}
+.time {
+  font-size: 8px;
+  font-style: italic;
+}
+.Subject:hover {
+  background-color: #06413a;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+
+  transition: font-size 0.5s, background-color 0.5s, color 0.5s;
+}
+img {
+  width: 125px;
+  padding: 0px 60px;
+  align-items: center;
+}
+hr {
+  background-color: white;
+}
+#tab2 {
+  background-color: #0c6c9d;
+  padding: 50px;
+  border-radius: 50px;
+}
+#tab2 table {
+  margin: 0px auto;
+}
+h1 {
+  font-size: 40px;
+}
+.tab3 {
+  background-color: lightblue;
+  margin: 0px auto;
+  /* padding: 0px 30px; */
+  border: 1px solid brown;
+}
+.coltitle {
+  font-size: 40px;
+  color: rgb(0, 138, 138);
+  background-color: lightblue;
+  margin: 0px auto;
+}
+br {
+  background-color: lightblue;
+}
+.timesq {
+  font-size: 14px;
+  border: 1px solid brown;
+}
+/* .tab3d {
+  margin: 0px 15px;
+} */
+th {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+}
+.blue {
+  background-color: lightblue;
+  margin: 0px auto;
+  /* padding: 0px 30px; */
+  border: 1px solid brown;
+  color: blue;
+}
+.pink {
+  background-color: lightblue;
+  margin: 0px auto;
+  /* padding: 0px 30px; */
+  border: 1px solid brown;
+  color: pink;
+}
+.red {
+  background-color: lightblue;
+  margin: 0px auto;
+  /* padding: 0px 30px; */
+  border: 1px solid brown;
+  color: red;
+}
+.brown {
+  background-color: lightblue;
+  margin: 0px auto;
+  /* padding: 0px 30px; */
+  border: 1px solid brown;
+  color: brown;
+}
+.burg {
+  background-color: lightblue;
+  margin: 0px auto;
+  /* padding: 0px 30px; */
+  border: 1px solid brown;
+  color: darkred;
+}
+.yell {
+  background-color: lightblue;
+  margin: 0px auto;
+  /* padding: 0px 30px; */
+  border: 1px solid brown;
+  color: yellow;
+}
+.gree {
+  background-color: lightblue;
+  margin: 0px auto;
+  /* padding: 0px 30px; */
+  border: 1px solid brown;
+  color: green;
+}
